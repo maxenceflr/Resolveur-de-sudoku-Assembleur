@@ -1,6 +1,6 @@
 # Résolveur de Sudoku en Assembleur (MIPS)
 
-Ce projet implémente un **résolveur de Sudoku en assembleur MIPS**, fonctionnant sous l'environnement **MARS**. Il permet de vérifier une grille, de détecter les doublons, et d'exécuter les différentes étapes de résolution via un ensemble de sous-programmes MIPS.
+Ce projet implémente un **résolveur de Sudoku en assembleur MIPS**, fonctionnant sous l'environnement **MARS**. Il permet de vérifier une grille, de détecter les doublons, et d'exécuter les différentes étapes de résolution via un ensemble de fonctions.
 
 ---
 
