@@ -4,7 +4,7 @@ Ce projet implémente un **résolveur de Sudoku en assembleur MIPS**, fonctionna
 
 ---
 
-## 📦 Prérequis
+##  Prérequis
 
 Avant de lancer le projet, vous devez disposer de :
 
@@ -14,12 +14,12 @@ Avant de lancer le projet, vous devez disposer de :
 
 ---
 
-## 🚀 Installation de MARS
+##  Installation de MARS
 
 1. Télécharger MARS au format `.jar` depuis son site officiel ou un mirroir universitaire.
 2. Ouvrir le fichier téléchargé : double-cliquez simplement dessus.
 
-> 💡 Si le double-clic ne fonctionne pas, lancez-le via la commande suivante :
+> Si le double-clic ne fonctionne pas, lancez-le via la commande suivante :
 >
 > ```bash
 > java -jar Mars.jar
@@ -27,7 +27,7 @@ Avant de lancer le projet, vous devez disposer de :
 
 ---
 
-## ▶️ Lancer le projet (Étapes)
+##  Lancer le projet (Étapes)
 
 Voici les étapes pour lancer le programme assembleur dans **MARS** :
 
@@ -40,7 +40,7 @@ Voici les étapes pour lancer le programme assembleur dans **MARS** :
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 Le projet ne contient **qu'un seul fichier assembleur** ainsi qu'un fichier texte pour la grille :
 
@@ -54,7 +54,7 @@ Le projet ne contient **qu'un seul fichier assembleur** ainsi qu'un fichier text
 
 ---
 
-## 🔍 Fonctionnement global du programme
+##  Fonctionnement global du programme
 
 Le résolveur charge une grille de Sudoku et applique différentes vérifications :
 
@@ -67,7 +67,7 @@ Selon l'implémentation choisie, une partie de la résolution peut être automat
 
 ---
 
- Tests
+## Tests
 
 Des grilles de test sont fournies dans le dossier sudoku.txt. Pour modifier la grille utilisée, éditez la section `.data` du fichier `sudoku.asm`.
 
